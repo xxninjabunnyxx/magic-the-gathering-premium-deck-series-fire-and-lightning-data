@@ -1,0 +1,111 @@
+---
+object: card
+id: 9ca05db2-ad92-4f4a-992d-b7f08f4f9c26
+oracle_id: 8785f42f-87b9-4a0a-89ce-ea423649ba9c
+multiverse_ids:
+- 217977
+mtgo_id: 39266
+mtgo_foil_id: 39267
+tcgplayer_id: 38666
+cardmarket_id: 244219
+name: Chain Lightning
+lang: en
+released_at: '2010-11-19'
+uri: https://api.scryfall.com/cards/9ca05db2-ad92-4f4a-992d-b7f08f4f9c26
+scryfall_uri: https://scryfall.com/card/pd2/16/chain-lightning?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/c/9ca05db2-ad92-4f4a-992d-b7f08f4f9c26.jpg?1562928035
+  normal: https://cards.scryfall.io/normal/front/9/c/9ca05db2-ad92-4f4a-992d-b7f08f4f9c26.jpg?1562928035
+  large: https://cards.scryfall.io/large/front/9/c/9ca05db2-ad92-4f4a-992d-b7f08f4f9c26.jpg?1562928035
+  png: https://cards.scryfall.io/png/front/9/c/9ca05db2-ad92-4f4a-992d-b7f08f4f9c26.png?1562928035
+  art_crop: https://cards.scryfall.io/art_crop/front/9/c/9ca05db2-ad92-4f4a-992d-b7f08f4f9c26.jpg?1562928035
+  border_crop: https://cards.scryfall.io/border_crop/front/9/c/9ca05db2-ad92-4f4a-992d-b7f08f4f9c26.jpg?1562928035
+mana_cost: "{R}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Chain Lightning deals 3 damage to any target. Then that player or that
+  permanent's controller may pay {R}{R}. If the player does, they may copy this spell
+  and may choose a new target for that copy.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e0d91aba-be11-4ddd-96a4-4753e708458a
+set: pd2
+set_name: 'Premium Deck Series: Fire and Lightning'
+set_type: premium_deck
+set_uri: https://api.scryfall.com/sets/e0d91aba-be11-4ddd-96a4-4753e708458a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apd2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pd2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9ca05db2-ad92-4f4a-992d-b7f08f4f9c26/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8785f42f-87b9-4a0a-89ce-ea423649ba9c&unique=prints
+collector_number: '16'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: 3e297899-ab77-4da1-be4d-3ce4d8df62c8
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 5868
+penny_rank: 19
+prices:
+  usd: 
+  usd_foil: '2.98'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.35'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=217977
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chain+Lightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chain+Lightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chain+Lightning
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38666?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chain+Lightning&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/39266?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
